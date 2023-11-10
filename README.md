@@ -1,7 +1,7 @@
 ### Hi there 👋
 I learnt Python in high school and now I'm learning C/C++ in university :)
-My pronouns are he/him or they/them
-Fun fact I really hate calculus 😭
+My pronouns are he/him or they/them.
+Fun fact I like algebra but really hate calculus 😭
 <!--
 **shirosaur/shirosaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
